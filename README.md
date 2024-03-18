@@ -10,15 +10,6 @@ This tool is strongly recommended for educational purpose.
 <h3 align="center">Price is simple 40$</h3>
 
 
-<p align="center">
-  Follow Me On
-</p>
-<p align="center">
-  <a href="https://youtu.be/E6DX1sqaPyQ">
-    <img src="https://www.iconsdb.com/icons/preview/red/youtube-4-xxl.png" width="40" height="40">
-  </a>
-</p>
-
 
 
 HOW TO USE?
